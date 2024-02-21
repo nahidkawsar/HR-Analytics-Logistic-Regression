@@ -17,24 +17,6 @@ Training and Prediction: Split the data, trained the model, and made predictions
 Insights Unveiled: The logistic regression model provides valuable insights into factors influencing employee turnover, empowering informed HR decisions.
 
 Acknowledgements
-Special thanks to @codebasics for the insightful exercise that fueled this project.
-Getting Started
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/hr-analytics-logreg.git
-cd hr-analytics-logreg
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Explore the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook HR_Analytics_Logistic_Regression.ipynb
-Stay Tuned!
-Excited to continue the exploration in HR analytics and uncover more actionable insights. Stay tuned for updates on my data science journey!
-
-Dataset Source: Kaggle HR Analytics
+Special thanks to codebasics for the insightful exercise that fueled this project.
 
 ![1](https://github.com/nahidkawsar/HR-Analytics-Logistic-Regression/assets/149723828/f228d814-f0db-4076-af55-23759444b9e6)
